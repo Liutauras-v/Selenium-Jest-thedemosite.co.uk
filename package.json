@@ -1,0 +1,17 @@
+{
+  "name": "my-new-jest-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Liutauras Vijeikis",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^79.0.0",
+    "fs": "0.0.1-security",
+    "jest": "^25.1.0",
+    "selenium-webdriver": "^3.6.0"
+  }
+}
